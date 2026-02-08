@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there!!👋I'm Sanjana Kannan<br><br>I'm currently pursuing Computer Science Engineering(1st year) at KGISL Institute of technology.<br><br>I'm a First-Year Computer Science Engineering student  at KGISL Institute of technology passionate about building secure, intelligent, and efficient software.<br>I love diving into the intersection of Cybersecurity and Web development<br>
+Hey there!!👋I'm Sanjana Kannan<br><br>I'm a First-Year Computer Science Engineering student at KGISL Institute of technology passionate about building secure, intelligent, and efficient software.<br>I love diving into the intersection of Cybersecurity and Web development<br>
 
 
 ## 🌐 Socials:
