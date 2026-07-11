@@ -1,32 +1,17 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,A855F7,C084FC&height=220&section=header&text=Sanjana%20Kannan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Engineer%20%7C%20Cybersecurity%20%7C%20Web%20Dev&descAlignY=58&descSize=20" />
+<!-- Hero Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24&text=Sanjana%20Kannan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Cybersecurity%20%7C%20Web%20Development&descAlignY=58&descSize=20" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sanjana+%F0%9F%91%8B;First-Year+CS+Engineering+Student;Cybersecurity+%2B+Web+Dev+Enthusiast;Building+Secure+%26+Intelligent+Software" alt="Typing SVG" />
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=👋+Hey,+I'm+Sanjana+Kannan;🎓+First-Year+Computer+Science+Student;🔐+Cybersecurity+Explorer;🌐+Full-Stack+Web+Development+Learner;🚀+Building+Secure+%26+Impactful+Solutions" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-</div>
-
-
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SanjanaKannan-R&label=Profile%20views&color=7c3aed&style=flat" alt="profile views" />
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sanjana-kannan-64b033378?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/sanjanakannan16?igsh=MWF3Z3F5YXR0NmpyMw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:srirenugadevisanjana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<!-- Profile Metrics -->
+<img src="https://komarev.com/ghpvc/?username=SanjanaKannan-R&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/SanjanaKannan-R?style=for-the-badge&color=7C3AED&labelColor=1E1B4B" />
+<img src="https://img.shields.io/github/stars/SanjanaKannan-R?style=for-the-badge&color=A855F7&labelColor=1E1B4B" />
 
 </div>
 
