@@ -1,14 +1,15 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sanjana%20Kannan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Engineer%20%7C%20Cybersecurity%20%7C%20Web%20Dev&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,A855F7,C084FC&height=220&section=header&text=Sanjana%20Kannan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Engineer%20%7C%20Cybersecurity%20%7C%20Web%20Dev&descAlignY=58&descSize=20" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sanjana+%F0%9F%91%8B;First-Year+CS+Engineering+Student;Cybersecurity+%2B+Web+Dev+Enthusiast;Building+Secure+%26+Intelligent+Software" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sanjana+%F0%9F%91%8B;First-Year+CS+Engineering+Student;Cybersecurity+%2B+Web+Dev+Enthusiast;Building+Secure+%26+Intelligent+Software" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
+
+</div>
+
 
 <!-- Profile Views & Social Badges -->
 <p>
