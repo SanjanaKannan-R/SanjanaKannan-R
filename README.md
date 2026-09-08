@@ -4,21 +4,7 @@
 
 **Computer Science Engineer · Cybersecurity Explorer**
 
-<br/>
-
-<!-- Profile Metrics -->
-<img src="https://komarev.com/ghpvc/?username=SanjanaKannan-R&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/SanjanaKannan-R?style=for-the-badge&color=7C3AED&labelColor=1E1B4B" />
-<img src="https://img.shields.io/github/stars/SanjanaKannan-R?style=for-the-badge&color=A855F7&labelColor=1E1B4B" />
-
-<br/><br/>
-
-<a href="#-about-me">About</a> •
-<a href="#-what-im-up-to">Activity</a> •
-<a href="#️-tech-stack">Tech Stack</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-github-stats">Stats</a> •
-<a href="#-lets-connect">Connect</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Enthusiast;Gen+AI;Infrastructure+as+Code+Expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,7 +38,7 @@ class Sanjana:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -103,50 +89,16 @@ class Sanjana:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SanjanaKannan-R&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SanjanaKannan-R&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaKannan-R&theme=algolia&hide_border=false" alt="GitHub Streak"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjanaKannan-R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaKannan-R&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-<!-- Note: the old herokuapp streak-stats endpoint is frequently down.
-     streak-stats.demolab.com is the actively maintained mirror. -->
-<img src="https://streak-stats.demolab.com/?user=SanjanaKannan-R&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" />
-
-</div>
-
----
-
-##  GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SanjanaKannan-R&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4)
-
-</div>
-
----
-
-## Top Contributed Repos
-
-<div align="center">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SanjanaKannan-R&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
-##  Contribution Graph
-
-<div align="center">
-
-[![Sanjana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjanaKannan-R&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -179,7 +131,11 @@ class Sanjana:
 </a>
 
 <br/><br/>
-
 > *"Security is not a product, but a process."* — Bruce Schneier
+<!-- Profile Metrics -->
+<img src="https://komarev.com/ghpvc/?username=SanjanaKannan-R&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/SanjanaKannan-R?style=for-the-badge&color=7C3AED&labelColor=1E1B4B" />
+<img src="https://img.shields.io/github/stars/SanjanaKannan-R?style=for-the-badge&color=A855F7&labelColor=1E1B4B" />
+
 
 </div>
