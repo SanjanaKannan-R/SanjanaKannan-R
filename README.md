@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24&text=Sanjana%20Kannan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Cybersecurity%20%7C%20Web%20Development&descAlignY=58&descSize=20" />
+# Hi, I'm Sanjana Kannan 
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=👋+Hey,+I'm+Sanjana+Kannan;🎓+First-Year+Computer+Science+Student;🔐+Cybersecurity+Explorer;🌐+Full-Stack+Web+Development+Learner;🚀+Building+Secure+%26+Impactful+Solutions" alt="Typing SVG" />
+**Computer Science Engineer · Cybersecurity Explorer**
 
 <br/>
 
@@ -13,31 +11,44 @@
 <img src="https://img.shields.io/github/followers/SanjanaKannan-R?style=for-the-badge&color=7C3AED&labelColor=1E1B4B" />
 <img src="https://img.shields.io/github/stars/SanjanaKannan-R?style=for-the-badge&color=A855F7&labelColor=1E1B4B" />
 
+<br/><br/>
+
+<a href="#-about-me">About</a> •
+<a href="#-what-im-up-to">Activity</a> •
+<a href="#️-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-stats">Stats</a> •
+<a href="#-lets-connect">Connect</a>
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ```python
 class Sanjana:
     pronouns     = "she/her"
     education    = "B.E. CSE @ KGISL Institute of Technology"
     year         = "First Year"
-    passions     = ["Cybersecurity", "Web Development", "AI/ML"]
+    passions     = ["Gen AI", "Cybersecurity", "Web Development"]
     currently    = "Exploring the intersection of security & the web"
     goal         = "Build software that is secure, intelligent & efficient"
-    fun_fact     = "I debug with coffee and determination ☕"
+    fun_fact     = "I debug with coffee and determination "
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something secure! ")
 ```
 
 ---
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 
-- 🔐 **Exploring** cybersecurity fundamentals — CTFs, networking, ethical hacking
-- 🌐 **Building** full-stack web projects from scratch
-- 📚 **Learning** data structures, algorithms & system design
-- 🤝 **Looking for** collaboration on open-source security or web dev projects
+-  **Exploring** cybersecurity fundamentals — CTFs, networking, ethical hacking
+-  **Building** full-stack web projects from scratch
+-  **Learning** data structures, algorithms & system design
+-  **Looking for** collaboration on open-source security or web dev projects
+-  **Documenting** what I learn as I go — expect more write-ups soon
 
 ---
 
@@ -68,6 +79,30 @@ class Sanjana:
 
 ---
 
+##  Featured Projects
+
+<!--
+  Replace the placeholders below with 2–4 of your best repos.
+  Pinning your top repos on your GitHub profile also helps a lot —
+  this section is a good place to add a one-line "why it matters" for each.
+-->
+
+<div align="center">
+
+<a href="https://github.com/SanjanaKannan-R/Thirukural-API">
+</a>
+<a href="https://github.com/SanjanaKannan-R/Rock-Paper-Scissors-model">
+</a>
+
+</div>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[ Thirukkural Explorer](#)** |Thirukkural Explorer is a Flask-based web application that makes it simple to search and explore the 1,330 Thirukkural verses using Kural numbers, Adhikaram numbers, or Tamil Adhikaram names. | Flask |
+| **[RPS Vision](#)** | RPS Vision is a Flask web application that identifies Rock, Paper, and Scissors hand gestures with a trained TensorFlow/Keras model. It supports image uploads, live webcam prediction, and a local two-player mode that uses one webcam. |Flask|
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -79,13 +114,15 @@ class Sanjana:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaKannan-R&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa)
+<!-- Note: the old herokuapp streak-stats endpoint is frequently down.
+     streak-stats.demolab.com is the actively maintained mirror. -->
+<img src="https://streak-stats.demolab.com/?user=SanjanaKannan-R&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -95,7 +132,7 @@ class Sanjana:
 
 ---
 
-## 🌟 Top Contributed Repos
+## Top Contributed Repos
 
 <div align="center">
 
@@ -105,17 +142,7 @@ class Sanjana:
 
 ---
 
-## 💡 Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -125,7 +152,17 @@ class Sanjana:
 
 ---
 
-## 🤝 Let's Connect!
+##  Dev Quote of the Day
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+##  Let's Connect!
 
 <div align="center">
 
@@ -144,7 +181,5 @@ class Sanjana:
 <br/><br/>
 
 > *"Security is not a product, but a process."* — Bruce Schneier
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
