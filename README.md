@@ -86,6 +86,7 @@ class Sanjana:
 |---|---|---|
 | **[ Thirukkural Explorer](#)** |Thirukkural Explorer is a Flask-based web application that makes it simple to search and explore the 1,330 Thirukkural verses using Kural numbers, Adhikaram numbers, or Tamil Adhikaram names. | Flask |
 | **[RPS Vision](#)** | RPS Vision is a Flask web application that identifies Rock, Paper, and Scissors hand gestures with a trained TensorFlow/Keras model. It supports image uploads, live webcam prediction, and a local two-player mode that uses one webcam. |Flask|
+| **[RAG Chatbot](#)** | RAG (Retrieval-Augmented Generation) chatbot lets you ask questions in plain English about your own PDFs, notes, or spreadsheets and get answers grounded in what those files actually say, instead of the model guessing from general training data. |Flask, LLM|
 
 ---
 
